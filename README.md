@@ -20,7 +20,7 @@ A estimativa de acesso para portais de notícias no Estado de Goiás é próximo
   - Armazenamento hot plug.  
   - Ventiladores de refrigeração a ar.  
 - **Aplicações típicas**:  
-  - Hospedagem web simples.  
+  - Hospedagem web.  
 
 **Valor estimado**: R$ 9.499,00  
 
