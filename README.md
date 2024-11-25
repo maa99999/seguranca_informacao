@@ -1,6 +1,6 @@
 #  Trabalho Final de Segurança da Informação - Planejamento e Configuração de Hardware e Software para Servidor com Hospedagem de Portal de Notícias  
 
-A estimativa de acesso para portais de notícias no Estado de Goiás é próximo de 17 mil visualizações de páginas por dia, de acordo com o Jornal Opção. Contabilizando a estimativa por segundo, chega próximo a 16 requisições por segundo. Para realizar o planejamento do hardware necessário para fornecer esse serviço, é necessário utilizar as especificações que serão mencionadad na próxima seção.
+A estimativa de acesso para portais de notícias no Estado de Goiás é próximo de 17 milhões  visualizações de páginas por mês, de acordo com o Jornal Opção. Contabilizando a estimativa por segundo, chega próximo a 16 requisições por segundo. Para realizar o planejamento do hardware necessário para fornecer esse serviço, é necessário utilizar as especificações que serão mencionadad na próxima seção.
 
 ## 1. Planejamento de Hardware  
 
