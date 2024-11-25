@@ -29,5 +29,5 @@ A estimativa de acesso para portais de notícias no Estado de Goiás é próximo
 ## 2. Instalação e Configuração do Sistema Operacional  
 
 ### Sistema Operacional Utilizado  
-- **SO**: Ubuntu Server 22.04.5 LTS  
+- **SO**: Ubuntu 22.04.5 LTS  
 
