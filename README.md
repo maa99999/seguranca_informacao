@@ -21,7 +21,6 @@ A estimativa de acesso para portais de notícias no Estado de Goiás é próximo
   - Ventiladores de refrigeração a ar.  
 - **Aplicações típicas**:  
   - Hospedagem web simples.  
-  - APIs e bancos de dados pequenos.  
 
 **Valor estimado**: R$ 9.499,00  
 
