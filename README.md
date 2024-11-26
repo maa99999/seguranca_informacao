@@ -5,8 +5,8 @@ A estimativa de acesso para portais de notícias no Estado de Goiás é próximo
 ## 1. Planejamento de Hardware  
 
 ### Estimativa de Acessos  
-- **Acesso mensal**: Aproximadamente 17 milhões visualizações por mês.  
-- **Requisições por segundo**: Cerca de 16 requisições/s, com base na divisão média.  
+- **Acesso mensal**: Aproximadamente 17 milhões visualizações.  
+- **Requisições por segundo**: Cerca de 16, com base na divisão média.  
 
 ### Especificações do Hardware  
 
