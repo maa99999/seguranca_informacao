@@ -13,7 +13,8 @@ A estimativa de acesso para portais de notícias no Estado de Goiás é próximo
 #### **Servidor Dell PowerEdge T360**  
 - **Tipo**: Servidor torre.  
 - **Processador**: Intel® Xeon® E-2400, ideal para alto desempenho em aplicativos com uso intenso de dados.  
-- **Memória**: DDR5 com 4.400 MT/s para maior velocidade.  
+- **Memória**: DDR5 com 4.400 MT/s para maior velocidade.
+               32GB UDIMM, 4800MT/s, Dual Rank, BCC 
 - **Armazenamento**: NVMe BOSS-N1 para menor latência e excelente escalabilidade.  
 - **Outros recursos**:  
   - Fonte de alimentação eficiente.  
